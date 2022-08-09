@@ -1,7 +1,6 @@
 
 
-# Simple GIN GORM API Example
-
+# Simple Crud GIN/MongoDB API Example
 
 
 - Install Go [DotEnv](https://github.com/joho/godotenv) (to setup our env variables)
