@@ -1,6 +1,6 @@
 
 
-# Simple Crud GO-GIN/MongoDB API Example. ![Golang](https://img.shields.io/badge/go-v1.19-blue)
+# Simple REST Crud GO-GIN/MongoDB ![Golang](https://img.shields.io/badge/go-v1.19-blue)
 
 
 - Install Go [DotEnv](https://github.com/joho/godotenv) (to setup our env variables)
